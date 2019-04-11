@@ -8,7 +8,7 @@ https://www.cloudflare.com/learning/dns/what-is-dns/
 
 https://www.sans.org/reading-room/whitepapers/dns/security-issues-dns-1069
 
-## Setup DNS Sever on Raspberry Pi
+## Setup DNS Server on Raspberry Pi
 
 https://pi-hole.net
 
